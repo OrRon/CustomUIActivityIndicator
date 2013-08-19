@@ -1,4 +1,4 @@
-Hot to use:
+<h1>Hot to use:</h1>
 
 ```
 DDIndicator *ind = [[DDIndicator alloc] initWithFrame:CGRectMake(160, 240, 30, 30)];
@@ -10,4 +10,4 @@ DDIndicator *ind = [[DDIndicator alloc] initWithFrame:CGRectMake(160, 240, 30, 3
 
 Coming soon:
 
--customizable properties:
+- [ ] customizable properties:

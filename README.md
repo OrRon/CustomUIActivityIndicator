@@ -1,4 +1,4 @@
-<h1>Hot to use:</h1>
+<h1>How to use:</h1>
 
 ```
 DDIndicator *ind = [[DDIndicator alloc] initWithFrame:CGRectMake(160, 240, 30, 30)];
